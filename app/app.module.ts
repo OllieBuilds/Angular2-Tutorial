@@ -38,7 +38,7 @@ import { DashboardComponent} from './dashboard.component';
     AppComponent,
     HeroDetailComponent,
     HeroesComponent,
-    DashboardComponent
+    DashboardComponent,
   ],
   providers: [
     HeroService
